@@ -1,4 +1,5 @@
 Currency Converter Web App
+
 This Currency Converter is a fully responsive and user-friendly web application developed using HTML, CSS, and JavaScript. It utilizes a real-time currency exchange API to provide accurate and up-to-date conversion rates between a wide range of international currencies.
 
 The app allows users to select their source and target currencies, input an amount, and instantly see the converted value based on live exchange rates. The interface is clean and intuitive, making it easy for users to perform quick conversions without any unnecessary complexity.
